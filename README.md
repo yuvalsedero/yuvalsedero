@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuvalsedero
 - 👀 I’m interested in finding a new project
-- 🌱 I’m currently learning python fullstack
+- 🌱 I’m currently working in Unity Game Development
 
 
 <!---
