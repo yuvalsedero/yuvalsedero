@@ -4,12 +4,8 @@ I'm a passionate computer science student constantly honing my skills and buildi
 
 Full-Stack Web Development : :outbox_tray:
 
-I leverage a diverse set of technologies to bring my ideas to life, including:
-
-Backend Development: Python (Django) and Java
-Frontend Development: JavaScript (React)
-Game Development: C# and Unity
-Version Control: Git
+I leverage Django (backend) and React (frontend) to create dynamic and interactive web applications .
+I solidified these skills through a challenging course at John Bryce Academy, and I'm continuously expanding my knowledge base .
 
 I solidified the web development skills through a challenging course at John Bryce Academy, and I'm continuously expanding my knowledge base.
 
@@ -18,6 +14,11 @@ Game Development Enthusiast ️: :video_game:
 In my free time, I delve into game development using Unity and C#, crafting engaging and immersive experiences.
 I thrive on coding challenges, always pushing the boundaries of what's possible.
 Explore My Work!
+
+Technologies I work with:
+Python, Java, C#
+JavaScript
+React, Django, unity
 
 Dive into my repositories to see the projects I'm actively building and learning from.
 Connect & Collaborate!
