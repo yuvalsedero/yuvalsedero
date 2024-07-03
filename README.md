@@ -1,5 +1,7 @@
 **Hey there! I'm Yuval Sedero** :wave:
 
+https://yuvalsedero.vercel.app/
+
 I'm a passionate computer science student constantly honing my skills and building projects to bridge the gap between theory and practice.
 
 Full-Stack Web Development : :outbox_tray:
